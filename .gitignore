@@ -4,5 +4,4 @@ test/
 js/
 node_modules
 coverage/
-build
 .idea/
