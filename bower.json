@@ -1,0 +1,17 @@
+{
+  "name": "docxtemplater-image-module",
+  "description": "Image Module for docxtemplater",
+  "main": "build/imagemodule.min.js",
+  "authors": [
+    "Edgar Hipp"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Josephdias92/docxtemplater-image-module",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
